@@ -1,0 +1,14 @@
+sentiment_category,Customer Feedback,Count
+negative,Delivery person was rude.,7643
+negative,"Horrible experience, never ordering again.",7529
+negative,"Not fresh, disappointed.",7580
+negative,"Very late delivery, not happy.",7592
+negative,Wrong item delivered.,7738
+neutral,Items missing from order.,7737
+positive,"Easy to order, loved it!",7791
+positive,Excellent experience!,7784
+positive,"Fast delivery, great service!",7715
+positive,Good quality products.,7789
+positive,Packaging could be better.,7704
+positive,Quick and reliable!,7658
+positive,Very satisfied with the service.,7740
