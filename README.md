@@ -36,9 +36,9 @@ Jupyter Notebook - Interactive development environment
 
 🔑 Key Findings
 
-Blinkit dominates in most categories (Dairy, Fruits & Vegetables, Beverages, Personal Care)
-JioMart leads in Grocery products
-Swiggy Instamart excels in Snacks category
+Blinkit dominates in most categories (Dairy, Fruits & Vegetables, Beverages, Personal Care) ,
+JioMart leads in Grocery products ,
+Swiggy Instamart excels in Snacks category ,
 Platform specialization patterns identified across different product categories
 
 🙏 Acknowledgments
