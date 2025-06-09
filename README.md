@@ -16,13 +16,14 @@ Data-Driven Recommendations: Provide actionable insights for business strategy
 The analysis uses e-commerce sales data containing:
 
 Platforms: Blinkit, JioMart, Swiggy Instamart
+
 Product Categories:
 
-Dairy
-Grocery
-Snacks
-Fruits & Vegetables
-Beverages
+Dairy,
+Grocery,
+Snacks,
+Fruits & Vegetables,
+Beverages,
 Personal Care
 
 
