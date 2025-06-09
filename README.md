@@ -27,11 +27,11 @@ Sales Metrics: Total products sold by platform and category
 
 🛠️ Technologies Used
 
-Python
-Pandas - Data manipulation and analysis
-NumPy - Numerical computations
-Matplotlib - Data visualization
-Seaborn - Statistical data visualization
+Python |
+Pandas - Data manipulation and analysis |
+NumPy - Numerical computations |
+Matplotlib - Data visualization |
+Seaborn - Statistical data visualization |
 Jupyter Notebook - Interactive development environment
 
 🔑 Key Findings
