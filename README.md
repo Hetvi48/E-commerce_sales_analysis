@@ -1,19 +1,23 @@
-E-commerce Sales Analysis 📊
+# E-commerce Sales Analysis 📊
 
 A comprehensive data analysis project examining e-commerce sales performance across multiple platforms and product categories using Python and data visualization techniques.
 
-🔍 Project Overview
+## 🔍 Project Overview
 
 This project analyzes e-commerce sales data to uncover insights about platform performance, product category trends, and sales patterns. The analysis focuses on comparing sales performance across different platforms (Blinkit, JioMart, Swiggy Instamart) and various product categories.
 
-🎯 Objectives
+## 🎯 Objectives
 
 Platform Performance Analysis: Compare sales performance across different e-commerce platforms
+
 Product Category Insights: Identify top-performing product categories and platform specializations
+
 Sales Trend Analysis: Discover patterns and trends in e-commerce sales data
+
 Data-Driven Recommendations: Provide actionable insights for business strategy
 
-📊 Dataset
+## 📊 Dataset
+
 The analysis uses e-commerce sales data containing:
 
 Platforms: Blinkit, JioMart, Swiggy Instamart
@@ -28,9 +32,9 @@ Beverages,
 Personal Care
 
 
-Sales Metrics: Total products sold by platform and category
+### Sales Metrics: Total products sold by platform and category
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Python |
 Pandas - Data manipulation and analysis |
